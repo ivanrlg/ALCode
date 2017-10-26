@@ -1,0 +1,26 @@
+{
+  "id": "f99876ba-b066-4a1b-b885-3fd14026018e",
+  "name": "Bookshelf",
+  "publisher": "PublishedByYH",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": {
+    "version": "11.0.0.0",
+    "locale": "W1"
+  },
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
