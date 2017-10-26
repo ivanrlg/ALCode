@@ -9,7 +9,7 @@ table 50100 Book
         }
         field(2;Title;Text[50])
         {
-            CaptionML = ENU='New Title More changes Title';
+            CaptionML = ENU='New Title More changes Title - Aha!';
         }
         field(3;Author;Text[80])
         {
